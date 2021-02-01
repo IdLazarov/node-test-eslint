@@ -1,0 +1,27 @@
+{
+  "name": "test-eslint",
+  "version": "1.0.0",
+  "description": "eslint-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdLazarov/node-test-eslint.git"
+  },
+  "keywords": [
+    "eslint",
+    "test",
+    "homework"
+  ],
+  "author": "Ivan.L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IdLazarov/node-test-eslint/issues"
+  },
+  "homepage": "https://github.com/IdLazarov/node-test-eslint#readme",
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
